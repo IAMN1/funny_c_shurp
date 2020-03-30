@@ -1,0 +1,10 @@
+E:\Programming\C#\visualS-workspace\RanWindows\bin\Debug\RanWindows.exe.config
+E:\Programming\C#\visualS-workspace\RanWindows\bin\Debug\RanWindows.exe
+E:\Programming\C#\visualS-workspace\RanWindows\bin\Debug\RanWindows.pdb
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.csprojAssemblyReference.cache
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.Form1.resources
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.Properties.Resources.resources
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.csproj.GenerateResource.cache
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.csproj.CoreCompileInputs.cache
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.exe
+E:\Programming\C#\visualS-workspace\RanWindows\obj\Debug\RanWindows.pdb
